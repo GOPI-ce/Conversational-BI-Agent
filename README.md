@@ -1,3 +1,8 @@
+IMPORTANT NOTE --  BEOFRE RUNNING THE PROJECT . PLEASE USE API KEY OF YOURS AND RUN
+I AM PASTING THE .env formate please follow that
+
+OPENROUTER_API_KEY=sk-or-v1-.....
+OPENROUTER_MODEL=anthropic/claude-sonnet-4.5
 # Conversational BI Agent — Instacart Dataset
 
 Plain-English questions → merged context + intent → **DuckDB SQL** → **Plotly** charts in a **Streamlit** chat UI.  
