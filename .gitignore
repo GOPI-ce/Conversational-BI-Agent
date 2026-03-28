@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.tmp/
+.venv/
+venv/
+*.duckdb
+*.duckdb.wal
+
+# Dataset is large (~32M+ rows); download from Kaggle per README — do not commit CSVs
+data/*.csv
