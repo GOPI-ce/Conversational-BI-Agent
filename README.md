@@ -3,6 +3,9 @@ I AM PASTING THE .env formate please follow that
 
 OPENROUTER_API_KEY=sk-or-v1-.....
 OPENROUTER_MODEL=anthropic/claude-sonnet-4.5
+
+IMPORTANT NOTE 2-  So there are total 6 CSV , since it's Huge we can push to the Git, so just download the files and add those files in data folder and you can run the Whole project
+
 # Conversational BI Agent — Instacart Dataset
 
 Plain-English questions → merged context + intent → **DuckDB SQL** → **Plotly** charts in a **Streamlit** chat UI.  
